@@ -6,17 +6,17 @@ microarray_a1.R: Implementation of a elementary data analysis tasks on a CEL mic
 
 1. loading CEL datafiles
 
-1. boxplot of gene expression distributions within samples
+2. boxplot of gene expression distributions within samples
 
 ![results](https://github.com/peterszabo77/microarray_data_analysis_1/blob/main/output/data_boxplot.png)
 
-1. filtering: remove genes with low expression
+3. filtering: remove genes with low expression
 
-1. linear model fit: gene expressions ~ sidepop (treatment group)
+4. linear model fit: gene expressions ~ sidepop (treatment group)
 
-1. write differential expressions table into 'modelfit_output_de.txt'
+5. write differential expressions table into 'modelfit_output_de.txt'
 
-1. save heatmap of most differencially expressed genes with clustering
+6. save heatmap of most differencially expressed genes with clustering
 
 ![results](https://github.com/peterszabo77/microarray_data_analysis_1/blob/main/output/heatmap_diffexp.png)
 
