@@ -1,7 +1,7 @@
 # microarray analysis
 
-Implementation of a elementary data analysis tasks on a CEL microarray datasets
-(datasets not included)
+microarray_a1.R: Implementation of a elementary data analysis tasks on a CEL microarray datasets
+(datasets not attached)
 
 ## loading CEL datafiles
 
