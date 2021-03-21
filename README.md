@@ -17,7 +17,7 @@ microarray_a1.R: Implementation of a elementary data analysis tasks on a CEL mic
 
 ### save heatmap of most differencially expressed genes with clustering
 
-![results](https://github.com/peterszabo77/microarray_data_analysis_1/blob/main/output/data_boxplot.png)
+![results](https://github.com/peterszabo77/microarray_data_analysis_1/blob/main/output/heatmap_diffexp.png)
 
 ## Software / libraries
 
