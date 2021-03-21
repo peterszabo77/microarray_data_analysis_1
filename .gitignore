@@ -1,3 +1,4 @@
 # ignore all CEL and CEL.gz  files
 *.CEL.gz
 *.CEL
+data/
